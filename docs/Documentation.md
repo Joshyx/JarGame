@@ -1,4 +1,4 @@
-To help you making a game with [JarGame](https://github.com/Joshyx/JarGame), I've created a documentation. Here you'll find all the classes you might need and explanation on how to use them.
+To help you making a game with [JarGame](https://joshyx.github.io/JarGame/), I've created a documentation. Here you'll find all the classes you might need and explanation on how to use them.
 
 
 
