@@ -5,7 +5,7 @@ It only handles things like drawing a window or collision-detection,
 everything else has to be made by the developer.
 
 ### Download Instructions
-* Download [Download `JarGame.jar`](%base_url%/builds/JarGame.jar)
+* Download [`JarGame.jar`](builds/JarGame.jar)
 * Import JarGame.jar into your IDE
 * Start Coding!
 
