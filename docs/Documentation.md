@@ -20,7 +20,7 @@ The main class of JarGame.
   
 * **static close()**\
   Stops the program\
-  _Return Type: void_\
+  _Return Type: void_
   
   
 ## Window
