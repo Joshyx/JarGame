@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "Documentation"
 permalink: /URL-PATH/
 
 hallo
