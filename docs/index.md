@@ -12,5 +12,5 @@ everything else has to be made by the developer.
 
 ### Need Help?
 
-* [Gettings started](https://github.com/Joshyx/JarGame/wiki/Getting-Started)
-* [Documentation](https://github.com/Joshyx/JarGame/wiki/Documentation)
+* [Gettings started](https://joshyx.github.io/JarGame/Getting-Started)
+* [Documentation](https://joshyx.github.io/JarGame/Documentation)
